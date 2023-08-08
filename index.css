@@ -30,7 +30,8 @@ body {
 }
 .services {
   text-align: center;
-  margin-top: 15%;
+  margin-top: 35%;
+  margin-bottom: 15%;
 }
 .card-text {
   color: #daccba;
