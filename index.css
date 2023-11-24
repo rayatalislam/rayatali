@@ -36,3 +36,12 @@ body {
 .card-text {
   color: #daccba;
 }
+.contact {
+  text-align: center;
+  margin-top: 25%;
+  margin-bottom: 25%;
+}
+.btn {
+  padding: 2rem;
+  background-color: rgb(190, 220, 255);
+}
